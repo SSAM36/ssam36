@@ -21,6 +21,8 @@ Notable Project
 
 I am always eager to learn new technologies and collaborate on exciting projects. Feel free to check out my repositories which for now are none because I'm introverted.
 
+Currently working with my team on making my own programming language which is multilingual open-source and highly customisable for the user end for more details about it you can check out the VScube repository 
+
 📫 Let's connect!
 •	Email: samarthbhirud480@gmail.com
 •Alt Email: 20samarthbhirud@gmail.com
